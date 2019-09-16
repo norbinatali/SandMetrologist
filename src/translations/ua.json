@@ -1,0 +1,15 @@
+{
+  "translations": {
+    "Introduction": "Представлення",
+    "Welcome": "Вітаємо",
+    "Products": "Продукція",
+    "About" : "Про нас",
+    "Login": "Особистий кабінет",
+    "Costumers": "Наші клієнти",
+    "Contacts": "Контакти",
+    "Please login in": "Вхід в обліковий запис",
+    "Registration": "Реєстрація",
+    "Username or Email": "Імя користувача",
+    "Password": "Пароль"
+  }
+}

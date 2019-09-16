@@ -1,0 +1,15 @@
+{
+ "translations": {
+    "Introduction": "Introduction",
+    "Welcome": "Home ",
+    "Products": "Products",
+    "About": "About us",
+    "Login": "Login",
+    "Contacts": "Contacts",
+    "Please login in": "Please sign in",
+    "Registration": "Sign up",
+   "Username or Email": "Username or Email",
+   "Password": "Password"
+
+  }
+}
